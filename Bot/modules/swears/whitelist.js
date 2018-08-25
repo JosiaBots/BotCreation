@@ -1,0 +1,4 @@
+exports.lista=[
+  "Marsellesa",
+  "marsellesa",
+  ]

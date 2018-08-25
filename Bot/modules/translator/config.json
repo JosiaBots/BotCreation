@@ -1,0 +1,7 @@
+{
+    "token": "(process.env.TOKEN)",
+    "prefix": "-",
+    "owner": ["318821976372150272"],
+    "playingStatus": "-help",
+    "tsChannelsEnabled": true
+}
