@@ -5,6 +5,8 @@ const app = express();
 const http = require('http');
 const config = require('./config.json')
 
+//Glitch Hosting
+
 /*app.get("/", (request, response) => {
     console.log(Date.now() + " Ping Received");
     response.sendStatus(200);
@@ -16,7 +18,7 @@ const config = require('./config.json')
 */
 
 client.on("ready", () => {
-    console.log('index Ready!');
+    console.log('Index Ready!');
 })
 
 client.login(config.token);
